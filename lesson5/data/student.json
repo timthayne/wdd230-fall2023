@@ -1,0 +1,29 @@
+[
+  {
+    "firstName": "Bill",
+    "lastName": "Nye",
+    "age": 67,
+    "married": true,
+    "children": [
+      {
+        "name": "Susie"
+      },
+      {
+        "name": "Billie"
+      }
+    ]
+  },
+  {
+    "firstName": "Bill",
+    "lastName": "Nye",
+    "age": 67,
+    "children": [
+      {
+        "name": "Susie"
+      },
+      {
+        "name": "Billie"
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "IDWEB",
+    "address": {
+      "street1": "2115 S Vista Avenue",
+      "street2": "",
+      "city": "Boise",
+      "state": "ID",
+      "zip": "83705"
+    },
+    "phone": "208-342-9386",
+    "url": "https://idahowebsites.com",
+    "imageUrl": "https://idahowebsites.com/wp-content/uploads/2022/10/Asset-1idweb.svg",
+    "membershipLevel": "Gold"
+  }
+]

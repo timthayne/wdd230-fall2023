@@ -1,15 +1,41 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Brother Thayne's Portfolio</title>
-</head>
-<body>
-    <header></header>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Brother Thayne - WDD 230 - Web Frontend Development</title>
+    <link rel="stylesheet" href="styles/base.css" />
+    <link rel="stylesheet" href="styles/larger.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Test</h1>
+    </header>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="chamber">Chamber</a></li>
+        <li><a href="#">Site Plan</a></li>
+        <li><a href="#">Form</a></li>
+      </ul>
+    </nav>
     <main>
-        <h1>Brother Thayne's Portfolio</h1>
+      <h1>Brother Thayne</h1>
+      <h1 id="subheading" class="heading"></h1>
+      <h1 class="heading"></h1>
+      <p>Number of visits: <span id="number-of-visits"></span></p>
     </main>
-    <footer></footer>
-</body>
+    <footer>
+      <p>
+        <span id="copyright"></span>
+        Brother Thayne
+      </p>
+      <p>
+        <span id="last-modified"></span>
+      </p>
+    </footer>
+    <script src="scripts/getDates.js"></script>
+    <!-- <script src="scripts/index.js" type="module"></script> -->
+    <script src="scripts/numvisits.js"></script>
+  </body>
 </html>

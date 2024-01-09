@@ -1,0 +1,18 @@
+{
+    "lastName": "Nye",
+    "dateMovedIn": "2023-10-07",
+    "numberOfPeopleInFamily": 5,
+    "visitedByBishopric": false,
+    "familyMembers": [
+        {
+            "name": "Bill",
+            "gender": "Male",
+            "birthDate": "1967-09-01"
+        },
+        {
+            "name": "Billie",
+            "gender": "Male",
+            "birthDate": "2020-09-01"
+        }
+    ]
+}

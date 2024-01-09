@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+
+
+/* html selectors */
+h1 {
+    font-family: 'DM Serif Display', serif;
+}
+
+/* class selectors */
+.heading {
+
+}
+
+/* id selectors */
+#subheading {
+
+}
+
